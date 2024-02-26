@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me:
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})[https://www.linkedin.com/in/shabnajl/]
-
-![image]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white})[https://github.com/shabnajL]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shabnajl/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shabnajL/)
 
 <!--
 ![image]({https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black})
