@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: 
-https://www.linkedin.com/in/shabnajl/ 
+
 ![shabnajL's Stats](https://github-readme-stats.vercel.app/api?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
+
+![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
