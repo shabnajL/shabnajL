@@ -27,9 +27,4 @@ Here are some ideas to get you started:
 
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/{shabnajL}/{shabnajL}/output/github-contribution-grid-snake-dark.svg)
