@@ -52,8 +52,9 @@ Here are some ideas to get you started:
   </div>
 
 
-## Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## trophies...
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ## Feeding...
