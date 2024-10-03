@@ -23,8 +23,37 @@ Here are some ideas to get you started:
 ![image]({https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black})
 ![shabnajL's Stats](https://github-readme-stats.vercel.app/api?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 -->
+## My Journey
+
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
 
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/{shabnajL}/{shabnajL}/output/github-contribution-grid-snake-dark.svg)
+
+## Languages and Tools:
+<div align="left">
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
+  </div>
+
+
+## Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Feeding...
