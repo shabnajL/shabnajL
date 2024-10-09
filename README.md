@@ -55,12 +55,12 @@ Here are some ideas to get you started:
   </div>
 <br/><br/>
 
-## Trophies...
+## Trophies:
 <div align="center">
   
   [![shabnajL's Trophies](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/><br/>
-## Feeding...
+## Feeding:
 ![Snake animation](https://raw.githubusercontent.com/shabnajL/shabnajL/output/github-contribution-grid-snake-dark.svg)
