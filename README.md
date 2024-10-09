@@ -23,22 +23,27 @@ Here are some ideas to get you started:
 ![image]({https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black})
 ![shabnajL's Stats](https://github-readme-stats.vercel.app/api?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 -->
-## My Journey
+<br/><br/>
+## My GitHub Journey
 
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
 
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
+<br/><br/>
 
 ## Languages and Tools:
 <div align="left">
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" height="30" alt="C logo"  /></code>
+  <img width="12" />
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
@@ -48,7 +53,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
   </div>
-
+<br/><br/>
 
 ## Trophies...
 <div align="center">
@@ -56,5 +61,6 @@ Here are some ideas to get you started:
   [![shabnajL's Trophies](https://github-profile-trophy.vercel.app/?username=shabnajL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+<br/><br/>
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/shabnajL/shabnajL/output/github-contribution-grid-snake-dark.svg)
