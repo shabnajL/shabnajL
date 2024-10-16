@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
-  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="Java logo"  /></code>
+  <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="30" alt="Java logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="12" />
