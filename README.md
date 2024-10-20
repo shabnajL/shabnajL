@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 -->
 <br/><br/>
 ## My GitHub Journey    
-![](https://komarev.com/ghpvc/?username=shabnajL&color=orange&abbreviated=true)
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
 
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <br/><br/>
-
+# ![](https://komarev.com/ghpvc/?username=shabnajL&color=orange&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=shabnajL&color=orange)
+<br/>
 ## Languages and Tools:
 <div align="left">
   <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" height="30" alt="C logo"  /></code>
