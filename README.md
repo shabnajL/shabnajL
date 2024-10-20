@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![shabnajL's Stats](https://github-readme-stats.vercel.app/api?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 -->
 <br/><br/>
-## My GitHub Journey
-
+## My GitHub Journey    
+![](https://komarev.com/ghpvc/?username=shabnajL&color=orange&abbreviated=true)
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
 
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
