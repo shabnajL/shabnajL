@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br/><br/>
 <!--
 **shabnajL/shabnajL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,10 +25,9 @@ Profile view: ![](https://komarev.com/ghpvc/?username=shabnajL&color=orange&abbr
 ![image]({https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black})
 ![shabnajL's Stats](https://github-readme-stats.vercel.app/api?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 -->
-<br/><br/>
 ## My GitHub Journey    
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
-
+<br/><br/>
 ![shabnajL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <br/><br/>
 
