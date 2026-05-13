@@ -30,7 +30,7 @@ Profile view: ![](https://komarev.com/ghpvc/?username=shabnajL&color=orange&abbr
 ## My GitHub Journey    
 ![shabnajL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shabnajL&theme=tokyonight&hide_border=false)
 <br/><br/>
-![shabnajL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&show_icons=true&hide_border=false&layout=donut)
+![shabnajL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnajL&theme=tokyonight&layout=donut)
 <br/><br/>
 
 ## Languages and Tools:
